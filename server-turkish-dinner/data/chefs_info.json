@@ -1,0 +1,302 @@
+[
+  {
+    "_id": 1,
+    "chef_picture": "https://i.ibb.co/z6WHsWk/mehmet-gurs.jpg",
+    "chef_name": "Mehmet Gürs",
+    "years_of_experience": 5,
+    "number_of_recipes": 50,
+    "likes": 200,
+    "description": " Mehmet Gürs is a well-known Turkish chef, cookbook author, and restaurateur. He is the owner and head chef of Mikla, one of Istanbul's most famous restaurants. He has also authored several cookbooks and appeared as a judge on Turkey's MasterChef program.",
+    "recipes": [
+      {
+        "recipe_image": "https://i.ibb.co/2tZyR7c/Spaghetti-bolognese.jpg",
+        "recipe_name": "Spaghetti Bolognese",
+        "ingredients": [
+          "spaghetti",
+          "ground beef",
+          "canned tomatoes",
+          "onion",
+          "garlic"
+        ],
+        "cooking_method": "Boil spaghetti according to package instructions, then cook ground beef, onion, and garlic in a separate pan until browned. Add canned tomatoes and simmer for 10 minutes. Serve sauce over cooked spaghetti.",
+        "rating": 4.5
+      },
+      {
+        "recipe_image": "https://i.ibb.co/RB4DMnL/Chicken-Alfredo.jpg",
+        "recipe_name": "Chicken Alfredo",
+        "ingredients": [
+          "chicken breast",
+          "heavy cream",
+          "parmesan cheese",
+          "garlic",
+          "butter"
+        ],
+        "cooking_method": "Cook chicken breast in a pan until no longer pink. In a separate saucepan, heat butter and garlic, then add heavy cream and parmesan cheese. Add cooked chicken to sauce and serve over pasta.",
+        "rating": 4.8
+      },
+      {
+        "recipe_image": "https://i.ibb.co/jLMZZrN/beef-stir-fry-recipe.jpg",
+        "recipe_name": "Beef Stir Fry",
+        "ingredients": [
+          "beef sirloin",
+          "broccoli",
+          "bell pepper",
+          "soy sauce",
+          "cornstarch"
+        ],
+        "cooking_method": "Stir fry beef in a hot pan until browned. Add broccoli and bell pepper and stir fry for a few minutes. In a separate bowl, mix soy sauce and cornstarch and pour over beef and vegetables. Cook until sauce thickens and serve over rice.",
+        "rating": 4.2
+      }
+    ]
+  },
+  {
+    "_id": 2,
+    "chef_picture": "https://i.ibb.co/3Rbz6TH/cznburak.jpg",
+    "chef_name": "Burak Özdemir",
+    "years_of_experience": 10,
+    "number_of_recipes": 100,
+    "likes": 500,
+    "description": "Burak Özdemir, also known as CZN Burak, is a social media sensation and celebrity chef. He is known for his larger-than-life personality and creative cooking videos, which have garnered millions of views online. He is the owner and head chef of several restaurants in Istanbul.",
+    "recipes": [
+      {
+        "recipe_image": "https://i.ibb.co/HFDnCPC/Beef-Stew.jpg",
+        "recipe_name": "Beef Stew",
+        "ingredients": [
+          "beef chuck",
+          "potatoes",
+          "carrots",
+          "onion",
+          "beef broth"
+        ],
+        "cooking_method": "Sear beef in a hot pot until browned, then add potatoes, carrots, and onion. Pour beef broth over the ingredients and simmer for a few hours until the beef is tender and the vegetables are cooked through.",
+        "rating": 4.7
+      },
+      {
+        "recipe_image": "https://i.ibb.co/YWsRyVz/spicy-tomato-pasta.jpg",
+        "recipe_name": "Spicy Shrimp Pasta",
+        "ingredients": [
+          "shrimp",
+          "pasta",
+          "cherry tomatoes",
+          "red pepper flakes",
+          "olive oil"
+        ],
+        "cooking_method": "Boil pasta according to package instructions, then sauté shrimp and cherry tomatoes in olive oil. Add red pepper flakes for spice and mix in cooked pasta.",
+        "rating": 4.4
+      },
+      {
+        "recipe_image": "https://i.ibb.co/v3JvDsX/salmon-butter.jpg",
+        "recipe_name": "Salmon with Lemon Butter",
+        "ingredients": [
+          "salmon fillet",
+          "butter",
+          "lemon",
+          "garlic",
+          "asparagus"
+        ],
+        "cooking_method": "Season salmon fillet and bake in the oven for 12-15 minutes.In a separate pan, melt butter and add minced garlic and lemon juice. Cook asparagus in a separate pot. Serve salmon with lemon butter and asparagus.",
+        "rating": 4.9
+      }
+    ]
+  },
+  {
+    "_id": 3,
+    "chef_picture": "https://i.ibb.co/NmP1Cs4/semsa-denizsel.jpg",
+    "chef_name": "Şemsa Denizsel",
+    "years_of_experience": 7,
+    "number_of_recipes": 75,
+    "likes": 350,
+    "description": "Şemsa Denizsel is a well-respected Turkish chef and restaurateur. She is the owner of several restaurants in Istanbul, including Kantin and Lezzet-i Şark. She is known for her fresh and simple approach to cooking, using locally-sourced ingredients and traditional techniques.",
+    "recipes": [
+      {
+        "recipe_image": "https://i.ibb.co/fDtqD1j/chicken-parmesan.jpg",
+        "recipe_name": "Chicken Parmesan",
+        "ingredients": [
+          "chicken breast",
+          "bread crumbs",
+          "marinara sauce",
+          "mozzarella cheese",
+          "parmesan cheese"
+        ],
+        "cooking_method": "Coat chicken breast in bread crumbs and bake in the oven for 20-25 minutes. Top with marinara sauce and mozzarella cheese and bake for an additional 10 minutes. Sprinkle with parmesan cheese before serving.",
+        "rating": 4.6
+      },
+      {
+        "recipe_image": "https://i.ibb.co/NVdQPfc/Beef-Tacos.jpg",
+        "recipe_name": "Beef Tacos",
+        "ingredients": [
+          "ground beef",
+          "taco seasoning",
+          "taco shells",
+          "lettuce",
+          "tomatoes"
+        ],
+        "cooking_method": "Cook ground beef and taco seasoning in a pan until browned. Fill taco shells with beef mixture and top with lettuce and tomatoes.",
+        "rating": 4.1
+      },
+      {
+        "recipe_image": "https://i.ibb.co/YTK9Kf3/grilled-chicken-salad.jpg",
+        "recipe_name": "Grilled Chicken",
+        "ingredients": [
+          "chicken breast",
+          "olive oil",
+          "lemon juice",
+          "garlic",
+          "rosemary"
+        ],
+        "cooking_method": "Season chicken breast with olive oil, lemon juice, minced garlic, and chopped rosemary. Grill chicken until cooked through.",
+        "rating": 4.3
+      }
+    ]
+  },
+  {
+    "_id": 4,
+    "chef_picture": "https://i.ibb.co/DGcMwBj/musa16.jpg",
+    "chef_name": "Musa Dağdeviren",
+    "years_of_experience": 8,
+    "number_of_recipes": 80,
+    "likes": 400,
+    "description": "Musa Dağdeviren is a chef and cookbook author who is dedicated to preserving traditional Turkish cuisine. He is the owner of several restaurants in Istanbul, including Çiya Sofrası and Çiya Kebap. He has also authored several cookbooks and appeared in the Netflix series Chef's Table.",
+    "recipes": [
+      {
+        "recipe_image": "https://i.ibb.co/h18HKKY/beef-burgundy.jpg",
+        "recipe_name": "Beef Burgundy",
+        "ingredients": [
+          "beef chuck",
+          "red wine",
+          "onion",
+          "carrots",
+          "mushrooms"
+        ],
+        "cooking_method": "Sear beef in a hot pot until browned, then remove from pot and set aside. Sauté onion, carrots, and mushrooms in the same pot, then add beef back in. Pour in red wine and simmer for a few hours until the beef is tender.",
+        "rating": 4.9
+      },
+      {
+        "recipe_image": "https://i.ibb.co/QnfkTrs/Pesto-Pasta.jpg",
+        "recipe_name": "Pesto Pasta",
+        "ingredients": [
+          "pasta",
+          "basil",
+          "garlic",
+          "olive oil",
+          "parmesan cheese"
+        ],
+        "cooking_method": "Boil pasta according to package instructions, then blend basil, garlic, olive oil, and parmesan cheese in a food processor to make pesto. Mix pesto with cooked pasta.",
+        "rating": 4.7
+      },
+      {
+        "recipe_image": "https://i.ibb.co/KVHS0jK/Lemon-Garlic-Shrimp.jpg",
+        "recipe_name": "Lemon Garlic Shrimp",
+        "ingredients": [
+          "shrimp",
+          "lemon",
+          "garlic",
+          "butter",
+          "white wine"
+        ],
+        "cooking_method": "Sauté shrimp in butter and garlic until pink, then add white wine and lemon juice. Cook for a few minutes until the sauce thickens.",
+        "rating": 4.5
+      }
+    ]
+  },
+  {
+    "_id": 5,
+    "chef_picture": "https://i.ibb.co/RBVwGBF/hazer-amani.jpg",
+    "chef_name": "Hazer Amani",
+    "years_of_experience": 12,
+    "number_of_recipes": 150,
+    "likes": 700,
+    "description": "Hazer Amani is a chef and restaurateur who specializes in Ottoman cuisine. He is the owner of several restaurants in Istanbul, including Topaz and Lokanta Maya. He is known for his unique approach to traditional Ottoman dishes, using modern techniques and presentation.",
+    "recipes": [
+      {
+        "recipe_image": "https://i.ibb.co/SBQ2vq1/Ratatouille.jpg",
+        "recipe_name": "Ratatouille",
+        "ingredients": [
+          "eggplant",
+          "zucchini",
+          "bell peppers",
+          "onion",
+          "tomatoes"
+        ],
+        "cooking_method": "Slice vegetables and layer them in a baking dish. Top with canned tomatoes and bake in the oven for 1-2 hours until the vegetables are tender.",
+        "rating": 4.2
+      },
+      {
+        "recipe_image": "https://i.ibb.co/25jXspw/Spinach-and-Feta-Stuffed-Chicken-Breast.jpg",
+        "recipe_name": "Spinach and Feta Stuffed Chicken Breast",
+        "ingredients": [
+          "chicken breast",
+          "spinach",
+          "feta cheese",
+          "garlic",
+          "bread crumbs"
+        ],
+        "cooking_method": "Mix spinach, feta cheese, minced garlic, and bread crumbs in a bowl. Cut a slit in the chicken breast and stuff with the mixture. Bake in the oven for 25-30 minutes until cooked through.",
+        "rating": 4.4
+      },
+      {
+        "recipe_image": "https://i.ibb.co/PcJLm03/Sushi-Rolls.jpg",
+        "recipe_name": "Sushi Rolls",
+        "ingredients": [
+          "sushi rice",
+          "nori sheets",
+          "avocado",
+          "crab meat",
+          "cucumber"
+        ],
+        "cooking_method": "Cook sushi rice according to package instructions. Lay out a nori sheet and spread rice on top. Add sliced avocado, crab meat, and cucumber. Roll the nori tightly and slice into pieces.",
+        "rating": 4.8
+      }
+    ]
+  },
+  {
+    "_id": 6,
+    "chef_picture": "https://i.ibb.co/514sgtL/Salt-Bae.jpg",
+    "chef_name": "Nusret Gökçe",
+    "years_of_experience": 3,
+    "number_of_recipes": 25,
+    "likes": 100,
+    "description": "Nusret Gökçe, also known as Salt Bae, is a Turkish butcher and chef who rose to fame for his unique style of seasoning meat. He owns several restaurants around the world, where he serves his famous cuts of meat and signature dishes.",
+    "recipes": [
+      {
+        "recipe_image": "https://i.ibb.co/jMDX1Rj/Grilled-Steak.jpg",
+        "recipe_name": "Grilled Steak",
+        "ingredients": [
+          "ribeye steak",
+          "salt",
+          "pepper",
+          "olive oil",
+          "garlic"
+        ],
+        "cooking_method": "Season steak with salt, pepper, and minced garlic. Grill steak until desired doneness.",
+        "rating": 4.9
+      },
+      {
+        "recipe_image": "https://i.ibb.co/4tWwSH4/Chicken-Tikka-Masala.jpg",
+        "recipe_name": "Chicken Tikka Masala",
+        "ingredients": [
+          "chicken thighs",
+          "yogurt",
+          "tomato sauce",
+          "garam masala",
+          "cumin"
+        ],
+        "cooking_method": "Marinate chicken thighs in yogurt and spices for at least 1 hour. Grill chicken until browned, then simmer in tomato sauce until cooked through.",
+        "rating": 4.7
+      },
+      {
+        "recipe_image": "https://i.ibb.co/6rXwdWv/Mushroom-Risotto.jpg",
+        "recipe_name": "Mushroom Risotto",
+        "ingredients": [
+          "arborio rice",
+          "chicken broth",
+          "mushrooms",
+          "parmesan cheese",
+          "butter"
+        ],
+        "cooking_method": "Sauté mushrooms in butter until browned, then set aside. Cook arborio rice in chicken broth until tender, then mix in parmesan cheese and mushrooms.",
+        "rating": 4.6
+      }
+    ]
+  }
+]
